@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "anOckEYAuV9C5zNhcMZRFC21vpLeW3yMRFFtZkByk+ogyvE8BuWFHwlE65ZOijikDqOnXbeGaUftrODktnV0eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shweta.Arbune\\source\\repos\\AutoMapper_Example\\AutoMapper_Example\\AutoMapper_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shweta.Arbune\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
